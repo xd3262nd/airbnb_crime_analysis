@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__/
+*.env
+New_York_City_.png
+NYC Airbnb Data Analysis.ipynb
+NYC_ARREST_DATA.csv
